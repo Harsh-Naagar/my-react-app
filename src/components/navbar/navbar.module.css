@@ -1,0 +1,40 @@
+#navbar{
+    height: 70px;
+    width: 100%;
+    background: linear-gradient(#fd492c,#ff4749);
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 30px;
+}
+
+#navbar>ul{
+    display: flex;
+    gap: 30px;
+    list-style: none;
+
+}
+
+#navbar li{
+    padding: 8px 5px;
+    border-radius: 5px;
+}
+
+.signupbtn{
+    background-color: white;
+    color: black;
+}
+
+.loginbtn:hover{
+    color: black;
+    background-color: white;
+}
+
+.logoutbtn{
+    background-color: white;
+    color: black;
+    padding: 8px 5px;
+    border-radius: 5px;
+    border: none;
+}
