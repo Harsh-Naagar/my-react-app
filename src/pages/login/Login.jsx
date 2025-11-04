@@ -64,7 +64,7 @@ const Login = () => {
         <article>
           <h1>Sign in</h1>
           <div className={style.iconscontainer}>
-            <span>heart</span>
+            <span>🔎</span>
             <span>❤️</span>
             <span>❤️</span>
           </div>
